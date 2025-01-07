@@ -5,3 +5,6 @@
 3. Execute (EX): ALU işlemlerini gerçekleştirir.
 4. Memory Access (MEM): Bellek okuma/yazma işlemlerini yapar.
 5. Write Back (WB): Sonuçları kayıt dosyasına yazar.
+
+
+advanced_processor bilgileri için advanced_processor_readme.docx / advanced_processor_readme.odt dosyalarına bakabilirsiniz.
